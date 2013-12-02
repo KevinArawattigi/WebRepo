@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    This page is hosted in AppHarbor after build
+    This page is hosted in AppHarbor after build 1.0
     </div>
     </form>
 </body>
